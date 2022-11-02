@@ -17,7 +17,7 @@ Tiramos el comando strings de Linux para ver más información:
 
 ![](../images/image13.png)
 
-Por lo visto en las últimas 3 líneas de la imagen, parece hacer algún tipo de comparación con el nombre de la leyenda, supuestamente el valor de la flag.
+Por lo visto en las últimas 3 líneas de la imagen, parece ser un programa que hace algún tipo de comparación con el nombre de la leyenda, que suponemos que será el valor de la flag.
 
 Intentamos abrirlo con la herramienta Cutter en Linux, un programa que nos permite leer el código Assembler del archivo, y nos dirigimos a la sección “main”:
 
