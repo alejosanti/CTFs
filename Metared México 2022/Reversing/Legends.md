@@ -5,7 +5,7 @@ Reversing, 100 points
 ![](../images/image11.png)
 
 ## Solution
-Por la descripción, buscando rapidamente en Google, ya sabemos que se trata de la leyenda de La Llorona, por lo que probamos “la llorona” y “la_llorona” como flags, pero no parece ser la respuesta a priori.
+Por la descripción, buscando rapidamente en Google, ya sabemos que se trata de la leyenda de La Llorona, por lo que probamos “la llorona” y “la_llorona” como flags, pero no parece ser la flag.
 
 Por lo tanto, abrimos el archivo adjunto con el bloc de notas de Windows:
 
